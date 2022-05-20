@@ -4,7 +4,7 @@
 - My super project is the social network [uerita.vercel.app](https://uerita.vercel.app/)
 - I frequently post articles about how to learn code on [uerita.vercel.app](https://uerita.vercel.app/)
 - The technologies I use the most are ReactJS, NextJS, Typescript and Firebase
-- I am currently looking for my first job as a junior front end
+- I'm currently looking for my first job as a junior front end
 
 ## 🛠  Tech Stack
 
