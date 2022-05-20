@@ -1,6 +1,6 @@
 ## Hi everyone, I'm J. Vitor F.! 👋
 
-- I'm currently self-taught student with degree incompletely
+- I'm currently a self-taught student with incomplete degree
 - My super project is the social network [uerita.vercel.app](https://uerita.vercel.app/)
 - I frequently post articles about how to learn code on [uerita.vercel.app](https://uerita.vercel.app/)
 - The technologies I use the most are ReactJS, NextJS, Typescript and Firebase
