@@ -5,7 +5,7 @@
 - I frequently post articles about how to learn code on [uerita.vercel.app](https://uerita.vercel.app/)
 - The technologies I use the most are ReactJS, NextJS, Typescript and Firebase
 - I'm currently looking for my first job as a junior front end
-- Contact me on my [linkedin](linkedin.com/in/joaovitorcode) profile
+- Contact me on my [linkedin](https://linkedin.com/in/joaovitorcode) profile
 
 ## 🛠  Tech Stack
 
