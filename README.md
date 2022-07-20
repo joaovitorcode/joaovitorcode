@@ -3,7 +3,7 @@
 - I'm currently a self-taught student with incomplete degree
 - My super project is the social network [uerita.vercel.app](https://uerita.vercel.app/)
 - I frequently post articles about how to learn code on [uerita.vercel.app](https://uerita.vercel.app/)
-- The technologies I use the most are ReactJS, NextJS, Typescript and Firebase
+- The technologies I use the most are ReactJS, NextJS, Typescript, MongoDB and Firebase
 - I'm currently looking for my first job as a junior front end
 - Contact me on my [linkedin](https://linkedin.com/in/joaovitorcode) profile
 
